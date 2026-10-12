@@ -1,34 +1,213 @@
-![Logo](https://github.com/Sandip-Bhandari/Sandip-Bhandari/blob/main/github.jpg)
-<h1 align="center">Hi 👋, I'm Sandip Bhandari</h1>
-<h3 align="center">A passionate Full stack developer & Cyber Security enthusiasm from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandip-bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="sandip-bhandari" /> </p>
 
-- 🌱 I’m currently revising **Backend Development**
+<div align="center">
 
-- 📝 I regularly write articles on [Khabaribaba.in](Khabaribaba.in)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,50:1d4ed8,100:06b6d4&text=SANDIP%20BHANDARI&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20APP%20DEVELOPER%20%7C%20CYBERSECURITY&descSize=13&descAlignY=65" width="100%" alt="Sandip Bhandari developer banner"/>
 
-- 📫 How to reach me **sandipbhandari805@gmail.com**
+<a href="https://syntrolabs.in/">
+  <img src="https://img.shields.io/badge/Building%20with-SyntroLabs-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SyntroLabs"/>
+</a>
+<a href="https://github.com/Sandip-Bhandari">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-- ⚡ Fun fact **I think I am funny**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Android+Application+Developer;Cybersecurity+%26+Cloud+Security+Enthusiast;Building+Practical+Digital+Solutions" alt="Animated developer introduction"/>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img src="https://komarev.com/ghpvc/?username=Sandip-Bhandari&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandip bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip bhandari" height="30" width="40" /></a>
-<a href="https://instagram.com/sandip bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandip bhandari" height="30" width="40" /></a>
-<a href="/https://khabaribaba.in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://khabaribaba.in/" height="30" width="40" /></a>
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Sandip Bhandari**, a developer interested in building modern websites, mobile applications, backend systems, and secure digital products.
+
+I enjoy learning new technologies, solving practical problems, and turning ideas into working applications.
+
+- 🌐 **Web Development:** Frontend, backend and responsive interfaces
+- 📱 **App Development:** Android applications and mobile UI
+- ⚙️ **Backend:** APIs, server-side development and databases
+- 🔐 **Cybersecurity:** Cloud security, IAM and secure application practices
+- ☁️ **Cloud:** Microsoft Azure fundamentals
+- 🚀 **Current Focus:** Software products and development at [SyntroLabs](https://syntrolabs.in/)
+- 📜 **Certification:** Microsoft Azure Fundamentals (AZ-900)
+- 📧 **Contact:** [sandipbhandari805@gmail.com](mailto:sandipbhandari805@gmail.com)
+
+---
+
+## 🏢 Current Venture
+
+<div align="center">
+
+<a href="https://syntrolabs.in/">
+  <img src="https://img.shields.io/badge/SYNTROLABS-Software%20%26%20Digital%20Solutions-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="SyntroLabs"/>
+</a>
+
+### SyntroLabs
+
+**Building software. Developing applications. Solving real-world problems.**
+
+Exploring software products, custom web development, application development, and technology-driven solutions.
+
+<a href="https://syntrolabs.in/">🌐 Visit SyntroLabs.in</a>
+
+</div>
+
+---
+
+## 🧰 Technology Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,php,c" alt="Programming languages"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Web Development
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sandipbhant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandipbhant" /></a></p><br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,laravel" alt="Web development stack"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandip-bhandari&show_icons=true&locale=en&layout=compact" alt="sandip-bhandari" /></p>
+### Android Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandip-bhandari&show_icons=true&locale=en" alt="sandip-bhandari" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" alt="Android development stack"/>
+</p>
+
+### Databases, Cloud & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,git,github,vscode,figma,postman" alt="Databases and development tools"/>
+</p>
+
+### Additional Interests
+
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Cloud%20Security-1d4ed8?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud security"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6d28d9?style=flat-square&logo=google&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/Robotics-0f766e?style=flat-square&logo=arduino&logoColor=white" alt="Robotics"/>
+</p>
+
+---
+
+## 🚀 Projects & Development
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗂️ ECL Task Management System
+
+A departmental task management application focused on assigning tasks, tracking progress, managing priorities, and monitoring deadlines.
+
+**Focus:** Workflow automation and dashboards
+
+</td>
+<td width="50%">
+
+### 🌐 SyntroLabs
+
+My current company website and the home for my software development activities.
+
+**Focus:** Software products and digital solutions
+
+<a href="https://syntrolabs.in/">Visit Website →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Android Applications
+
+Exploring mobile application development with modern Android UI and backend integration.
+
+**Focus:** Kotlin and Jetpack Compose
+
+</td>
+<td width="50%">
+
+### ⚙️ Web & Backend Projects
+
+Developing websites, APIs, database-backed applications, and reusable software components.
+
+**Focus:** PHP, Laravel, MySQL and web technologies
+
+</td>
+</tr>
+</table>
+
+> Project cards describe my development focus. Add links to the corresponding repositories when the source code is published.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sandip-Bhandari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip-Bhandari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Sandip-Bhandari&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandip-Bhandari&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🎯 Currently Improving
+
+- Building complete web applications from frontend to backend
+- Android development and API integration
+- Database design and application architecture
+- Cloud security and identity management
+- Writing clean, maintainable and secure code
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Sandip-Bhandari">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://syntrolabs.in/">
+<img src="https://img.shields.io/badge/SyntroLabs-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SyntroLabs website"/>
+</a>
+<a href="mailto:sandipbhandari805@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<!-- Replace this link with your actual LinkedIn profile URL -->
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Secure. Innovate.
+
+*Thanks for visiting my GitHub profile.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" alt="Blue footer banner"/>
+
+</div>
