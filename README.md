@@ -3,6 +3,9 @@
 
 <img src="header.svg" width="100%" alt="Sandip Bhandari - Spider-Man themed header"/>
 
+[![Contact Me](https://img.shields.io/badge/📨_CONTACT_ME-SEND_A_MESSAGE-E62429?style=for-the-badge&labelColor=0D1117)](https://sandip-bhandari.github.io/Sandip-Bhandari/contact.html)
+
+
 <a href="https://github.com/Sandip-Bhandari">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=E62429&center=true&vCenter=true&width=760&lines=With+great+code+comes+great+responsibility;Laravel+%2B+Kotlin+%2B+React+%E2%80%A2+Building+real-world+software;Secure+%E2%80%A2+Scalable+%E2%80%A2+Production-ready" alt="typing"/>
 </a>
@@ -226,20 +229,14 @@ Websites, APIs, database-backed applications and reusable software components.
 
 <img src="web-divider.svg" width="100%" alt="web divider"/>
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
 <div align="center">
-
-**Have a project, an opportunity or just want to say hi? Drop me a message.**
 
 [![Contact Form](https://img.shields.io/badge/📨_SEND_ME_A_MESSAGE-CONTACT_FORM-E62429?style=for-the-badge&labelColor=0D1117)](https://sandip-bhandari.github.io/Sandip-Bhandari/contact.html)
 
 [![Email](https://img.shields.io/badge/EMAIL-sandipbhandari805@gmail.com-1F4FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sandipbhandari805@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-Sandip--Bhandari-E62429?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Sandip-Bhandari)
-
-<br/>
-
-*"With great code comes great responsibility."* 🕷️
 
 <img src="footer%20(1).svg" width="100%" alt="footer"/>
 
