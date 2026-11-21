@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Sandip Bhandari - Spider-Man themed header"/>
+<img src="header.svg" width="100%" alt="Sandip Bhandari - Spider-Man themed header"/>
 
 <a href="https://github.com/Code-with-Sandy">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=E62429&center=true&vCenter=true&width=760&lines=With+great+code+comes+great+responsibility;Laravel+%2B+Kotlin+%2B+React+%E2%80%A2+Building+real-world+software;Secure+%E2%80%A2+Scalable+%E2%80%A2+Production-ready" alt="typing"/>
@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 🕷️ About Me
 
@@ -33,7 +33,7 @@ I enjoy learning new technologies, solving practical problems, and turning ideas
 - 🏅 **Certification:** Microsoft Azure Fundamentals (AZ-900)
 - 📫 **Contact:** [sandipbhandari805@gmail.com](mailto:sandipbhandari805@gmail.com)
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 🏢 Current Venture
 
@@ -49,7 +49,7 @@ Software products, custom web development, application development, and technolo
 
 </div>
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 💼 Professional Experience
 
@@ -89,7 +89,7 @@ Delivered technical training to **JNV Longding** students on Arduino, programmin
 
 </details>
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 🛠️ Technology Stack
 
@@ -142,7 +142,7 @@ Delivered technical training to **JNV Longding** students on Arduino, programmin
 ![Robotics](https://img.shields.io/badge/Robotics-0FAAFF?style=flat-square&labelColor=0D1117)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E62429?style=flat-square&labelColor=0D1117)
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 🚀 Projects & Development
 
@@ -193,7 +193,7 @@ Websites, APIs, database-backed applications and reusable software components.
 
 > 📌 Project cards describe my development focus. Repository links will be added as the source code is published.
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 🎓 Education
 
@@ -203,7 +203,7 @@ Websites, APIs, database-backed applications and reusable software components.
 | **Class XII (Science – PCM)** | Sodepur Colliery High School | **70%** |
 | **Class X** | Sodepur Colliery High School | **59.7%** |
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 🏅 Certifications
 
@@ -214,7 +214,7 @@ Websites, APIs, database-backed applications and reusable software components.
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-Info_Security_Mgmt-E62429?style=for-the-badge&labelColor=0D1117)
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Web_Development-Relevel-1F4FD8?style=for-the-badge&labelColor=0D1117)
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 📊 GitHub Analytics
 
@@ -229,7 +229,7 @@ Websites, APIs, database-backed applications and reusable software components.
 
 </div>
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 📈 Contribution Activity
 
@@ -239,7 +239,7 @@ Websites, APIs, database-backed applications and reusable software components.
 
 </div>
 
-<img src="assets/web-divider.svg" width="100%" alt="web divider"/>
+<img src="web-divider.svg" width="100%" alt="web divider"/>
 
 ## 📫 Let's Connect
 
@@ -253,6 +253,6 @@ Websites, APIs, database-backed applications and reusable software components.
 
 *"With great code comes great responsibility."* 🕷️
 
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<img src="footer.svg" width="100%" alt="footer"/>
 
 </div>
