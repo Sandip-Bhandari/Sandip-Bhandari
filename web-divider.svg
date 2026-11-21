@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60">
+<defs>
+ <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#1F4FD8" stop-opacity="0"/><stop offset="0.5" stop-color="#E62429"/><stop offset="1" stop-color="#1F4FD8" stop-opacity="0"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="60" y="29" width="1080" height="2" fill="url(#l)" opacity="0.85"/>
+<line x1="60" y1="30" x2="1140" y2="30" stroke="#ffffff" stroke-width="2" stroke-dasharray="40 1040" filter="url(#g)">
+ <animate attributeName="stroke-dashoffset" values="0;-1080" dur="3.5s" repeatCount="indefinite"/>
+</line>
+<g transform="translate(600,30)">
+ <g stroke="#C9D1D9" stroke-opacity="0.8" stroke-width="1" fill="none"><line x1="0" y1="0" x2="22.0" y2="0.0"/><line x1="0" y1="0" x2="15.6" y2="15.6"/><line x1="0" y1="0" x2="0.0" y2="22.0"/><line x1="0" y1="0" x2="-15.6" y2="15.6"/><line x1="0" y1="0" x2="-22.0" y2="0.0"/><line x1="0" y1="0" x2="-15.6" y2="-15.6"/><line x1="0" y1="0" x2="-0.0" y2="-22.0"/><line x1="0" y1="0" x2="15.6" y2="-15.6"/><circle r="7"/><circle r="14"/><circle r="21"/></g>
+ <circle r="4" fill="#E62429" filter="url(#g)"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
