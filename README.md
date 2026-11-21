@@ -3,16 +3,16 @@
 
 <img src="header.svg" width="100%" alt="Sandip Bhandari - Spider-Man themed header"/>
 
-<a href="https://github.com/Code-with-Sandy">
+<a href="https://github.com/Sandip-Bhandari">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=E62429&center=true&vCenter=true&width=760&lines=With+great+code+comes+great+responsibility;Laravel+%2B+Kotlin+%2B+React+%E2%80%A2+Building+real-world+software;Secure+%E2%80%A2+Scalable+%E2%80%A2+Production-ready" alt="typing"/>
 </a>
 
 <br/>
 
-![Building With](https://img.shields.io/badge/BUILDING_WITH-SYNTROLABS-E62429?style=for-the-badge&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GITHUB-Code--with--Sandy-1F4FD8?style=for-the-badge&logo=github&labelColor=0D1117)
+![Open To Work](https://img.shields.io/badge/OPEN_TO-ANDROID_%26_FULL--STACK_ROLES-E62429?style=for-the-badge&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GITHUB-Sandip--Bhandari-1F4FD8?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/BASED_IN-ASANSOL,_WEST_BENGAL-E62429?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
-![Profile Views](https://komarev.com/ghpvc/?username=Code-with-Sandy&label=PROFILE+VIEWS&color=1F4FD8&style=for-the-badge&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Sandip-Bhandari&label=PROFILE+VIEWS&color=1F4FD8&style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -29,25 +29,10 @@ I enjoy learning new technologies, solving practical problems, and turning ideas
 - ⚙️ **Backend:** REST APIs, server-side logic and databases
 - 🔐 **Cybersecurity:** Cloud security, IAM and secure application practices
 - ☁️ **Cloud:** Microsoft Azure Fundamentals
-- 🚀 **Current Focus:** Software products and development at [SyntroLabs](https://syntrolabs.in)
+- 🚀 **Current Role:** HR Trainee / DEO & Full-Stack Developer Intern at Eastern Coalfields Limited
+- 🎯 **Looking for:** Android (Kotlin) & Full-Stack (Laravel / React) developer roles
 - 🏅 **Certification:** Microsoft Azure Fundamentals (AZ-900)
 - 📫 **Contact:** [sandipbhandari805@gmail.com](mailto:sandipbhandari805@gmail.com)
-
-<img src="web-divider.svg" width="100%" alt="web divider"/>
-
-## 🏢 Current Venture
-
-<div align="center">
-
-![SyntroLabs](https://img.shields.io/badge/SYNTROLABS-SOFTWARE_%26_DIGITAL_SOLUTIONS-E62429?style=for-the-badge&labelColor=0D1117)
-
-**Building software. Developing applications. Solving real-world problems.**
-
-Software products, custom web development, application development, and technology-driven solutions.
-
-[🌐 Visit SyntroLabs.in](https://syntrolabs.in)
-
-</div>
 
 <img src="web-divider.svg" width="100%" alt="web divider"/>
 
@@ -160,14 +145,14 @@ Task & role management platform for **Eastern Coalfields Limited**: web portal +
 </td>
 <td width="50%" valign="top">
 
-### 🌐 SyntroLabs — EdTech & Internship Platform
+### 🎓 EdTech & Virtual Internship Platform *(side project)*
 Full-scale EdTech and virtual internship platform with **7+ technical domains** (AI, Web Dev, Robotics, Cloud). Dark UI, glow effects, domain track cards, Google Forms integration.
 
-**Focus:** Software products and digital solutions
+**Focus:** Student applications, program tracks and a clean dark UI
 
 `React` `Tailwind` `Vite` `JavaScript`
 
-[Visit Website →](https://syntrolabs.in)
+[View Project →](https://syntrolabs.in)
 
 </td>
 </tr>
@@ -220,12 +205,12 @@ Websites, APIs, database-backed applications and reusable software components.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Code-with-Sandy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=1F4FD8&text_color=C9D1D9&ring_color=E62429" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-Sandy&layout=compact&hide_border=true&bg_color=0D1117&title_color=E62429&text_color=C9D1D9" alt="languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sandip-Bhandari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=1F4FD8&text_color=C9D1D9&ring_color=E62429" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip-Bhandari&layout=compact&hide_border=true&bg_color=0D1117&title_color=E62429&text_color=C9D1D9" alt="languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-Sandy&hide_border=true&background=0D1117&ring=E62429&fire=1F4FD8&currStreakLabel=E62429&sideLabels=1F4FD8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip-Bhandari&hide_border=true&background=0D1117&ring=E62429&fire=1F4FD8&currStreakLabel=E62429&sideLabels=1F4FD8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak"/>
 
 </div>
 
@@ -235,7 +220,7 @@ Websites, APIs, database-backed applications and reusable software components.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-with-Sandy&bg_color=0D1117&color=E62429&line=1F4FD8&point=FFFFFF&area=true&area_color=1F4FD8&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandip-Bhandari&bg_color=0D1117&color=E62429&line=1F4FD8&point=FFFFFF&area=true&area_color=1F4FD8&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -245,9 +230,12 @@ Websites, APIs, database-backed applications and reusable software components.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-sandipbhandari805@gmail.com-E62429?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sandipbhandari805@gmail.com)
-[![Website](https://img.shields.io/badge/WEBSITE-syntrolabs.in-1F4FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://syntrolabs.in)
-[![GitHub](https://img.shields.io/badge/GITHUB-Code--with--Sandy-E62429?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Code-with-Sandy)
+**Have a project, an opportunity or just want to say hi? Drop me a message.**
+
+[![Contact Form](https://img.shields.io/badge/📨_SEND_ME_A_MESSAGE-CONTACT_FORM-E62429?style=for-the-badge&labelColor=0D1117)](https://sandip-bhandari.github.io/Sandip-Bhandari/contact.html)
+
+[![Email](https://img.shields.io/badge/EMAIL-sandipbhandari805@gmail.com-1F4FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sandipbhandari805@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Sandip--Bhandari-E62429?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Sandip-Bhandari)
 
 <br/>
 
