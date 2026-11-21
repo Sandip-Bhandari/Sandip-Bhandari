@@ -241,6 +241,6 @@ Websites, APIs, database-backed applications and reusable software components.
 
 *"With great code comes great responsibility."* 🕷️
 
-<img src="footer.svg" width="100%" alt="footer"/>
+<img src="footer%20(1).svg" width="100%" alt="footer"/>
 
 </div>
